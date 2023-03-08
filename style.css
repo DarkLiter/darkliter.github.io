@@ -1,0 +1,115 @@
+body {
+    background-color: black;
+    font-size: 20px;
+}
+
+.container-fluid header {
+   margin: 30px auto;
+}
+
+nav {
+    background-color: rgb(59, 59, 59);
+    font-size: 22px;
+}
+
+.navbar-nav{
+    font-size: 18px;
+}
+
+.nav-item{
+    margin: auto 30px;
+}
+
+.help {
+    background-color:#0097a4;
+    min-height: 500px;
+}
+
+.company {
+    background-color:#424c55;
+    min-height: 400px;
+}
+
+.protect {
+    text-align: left;
+    font-size: 16px;
+}
+
+a.button {
+    display: inline-block;
+    background-color:  #86c648;
+    padding: 1em 2em;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+a.button:hover {
+    background: #8bc03c;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+.h1-h3 {
+    margin: 1.5em auto;
+}
+
+.images {
+    margin-top: 5em;
+}
+
+.technical {
+    background-image: url(https://pngicon.ru/file/uploads/robot-eset.png);
+    background-size: cover;
+}
+
+.text_technical {
+    font-size: 20px;
+    text-align: left;
+    list-style: inside;
+}
+
+.quality {
+    background-color:#424c55;
+    min-height: 400px;
+}
+
+.ul-card {
+    text-align: left;
+}
+
+.antivirus {
+    min-height: 980px;
+    overflow: hidden;
+}
+
+.ab_us {
+    margin-top: 50px;
+}
+
+.side {
+    background-color: rgba(240, 239, 239, 0.5); 
+    opacity: 85%;
+}
+
+.h1 {
+    padding: 50px 0;
+    text-align: center;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.an_text {
+    overflow: hidden;
+    font-size: 20px;
+    margin-top: 70px;
+    inline-size: 24em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
